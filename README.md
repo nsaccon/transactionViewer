@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Transaction Viewer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Created as part of a programming exercise
 
 ## Available Scripts
 

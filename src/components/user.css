@@ -1,0 +1,25 @@
+.user{
+    margin-bottom: 5px;
+}
+
+.user_name{
+    font-size: 1.2rem;
+    margin-right: 50px;
+}
+.user_name:hover{
+    text-decoration: underline;
+}
+
+.user_total{
+    font-size: 1.1rem;
+}
+
+.user_detail{
+    display: flex;
+}
+
+.user_transactionTable{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}

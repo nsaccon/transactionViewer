@@ -1,0 +1,12 @@
+.header{
+    margin-left: 20%;
+}
+
+.header_title{
+    margin-bottom: 25px;
+}
+
+.header_currencyType{
+    font-size: 1.2rem;
+    margin-left: 8px;
+}
